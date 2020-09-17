@@ -53,6 +53,10 @@ Um servidor é um **software ou máquina**. Ele fornece serviços de armazenamen
 
 O *Hypertext Transfer Protocol (HTTP)* é um protocolo de comunicação entre **servidor e cliente**, base para a conexão de dados da Internet. O HTTP não é literalmente um fio, mas sim um conjunto de regras que permite a transmissão de informações.   
     *Hipertexto é o texto estruturado que utiliza ligações lógicas.* 
+<br />
+<br />
+<br />
+<br />
 
 ![api](https://i.ibb.co/Yc6ddG8/api.jpg)
 
