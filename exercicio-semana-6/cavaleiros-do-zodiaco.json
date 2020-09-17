@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Seiya",
+        "constellation": "Pegasus",
+        "rank": "Bronze Saints",
+        "techniques": ["Pegasus Meteor Fist", "Pegasus Comet Fist", "Pegasus Rolling Crush"]
+    },
+    {
+        "name": "Kanon",
+        "constellation": "Gemini",
+        "rank": "Gold Saints",
+        "techniques": ["Galaxian Explosion", "Genrou Ken", "Golden Triangle"]
+    },
+    {
+        "name": "Shiryu",
+        "constellation": "Dragom",
+        "rank": "Bronze Saints",
+        "techniques": ["Lushan Rising Dragon Lord", "Lushan One Hundred Dragon Lords", "Excalibur"]
+    },
+    {
+        "name": "Mii",
+        "constellation": "Delphinus",
+        "rank": "Bronze Saints",
+        "techniques": ["Angel Splash", "Heaven's Maelstrom"]
+    },
+    {
+        "name": "Shun",
+        "constellation": "Andromeda",
+        "rank": "Bronze Saints",
+        "techniques": ["Nebula Chain", "Thunder Wave"]
+    },
+    {
+        "name": "Hyoga",
+        "constellation": "Cygnus",
+        "rank": "Bronze Saints",
+        "techniques": ["Diamond Dust", "Aurora Execution"]
+    },
+    {
+        "name": "Milo",
+        "constellation": "Scorpio",
+        "rank": "Gold Saints",
+        "techniques": ["Restriction", "Scarlet Needle"]
+    },
+    {
+        "name": "Marin",
+        "constellation": "Aquila",
+        "rank": "Silver Saints",
+        "techniques": ["Meteor Punch", "Eagle Toe Flash"]
+    },
+    {
+        "name": "Shōko",
+        "constellation": "Equuleus",
+        "rank": "Bronze Saints",
+        "techniques": ["Equuleus Ryūsei Ken", "Equuleus Sui Sei Ken"]
+    },
+    {
+        "name": "Deathmask",
+        "constellation": "Cancer",
+        "rank": "Gold Saints",
+        "techniques": "Praesepe Underworld Wave"
+    }
+]

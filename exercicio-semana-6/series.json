@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Living Single",
+        "release": 1993,
+        "original-network": "Fox", 
+        "genre": "comedy",
+        "parental-rating": 14,
+        "seasons": 5,
+        "critical-score": null
+    },
+    {
+        "title": "Queen Sono",
+        "release": 2020,
+        "original-network": "Netflix",
+        "genre": ["action", "crime drama", "thriller"],
+        "parental-rating": 16,
+        "seasons": 1,
+        "critical-score": 91
+    },
+    {
+        "title": "Atlanta",
+        "release": 2018,
+        "original-network": "Netflix",
+        "genre": ["comedy", "comedy-drama", "surreal comedy"],
+        "parental-rating": 18,
+        "seasons": 2,
+        "critical-score": 97
+    },
+    {
+        "title": "Self Made: Inspired by the Life of Madam C.J. Walker",
+        "release": 2020,
+        "original-network": "Netflix",
+        "genre": ["drama", "biography"],
+        "parental-rating": 14,
+        "seasons": 1,
+        "critical-score": 68  
+    },
+    {
+        "title": "Dear White People",
+        "release": 2017,
+        "original-network": "Netflix",
+        "genre": ["satire", "comedy-drama"],
+        "parental-rating": 16,
+        "seasons": 3,
+        "critical-score": 95  
+    },
+    {
+        "title": "Marvel's Luke Cage",
+        "release": 2018,
+        "original-network": "Netflix",
+        "genre": ["action", "drama", "neo-blaxploitation", "neo-Western", "superhero"],
+        "parental-rating": 16,
+        "seasons": 2,
+        "critical-score": 87  
+    },
+    {
+        "title": "The Fresh Prince of Bel-Air",
+        "release": 1990,
+        "original-network": "NBC",
+        "genre": "comedy",
+        "parental-rating": "free",
+        "seasons": 6,
+        "critical-score": null
+    },
+    {
+        "title": "The Get Down",
+        "release": 2017,
+        "original-network": "Netflix",
+        "genre": ["musical", "drama"],
+        "parental-rating": 16,
+        "seasons": 2,
+        "critical-score": 81 
+    },
+    {
+        "title": "Everybody Hates Chris",
+        "release": 2005,
+        "original-network": ["United Paramount Network", "The CW Television Network"],
+        "genre": "comedy",
+        "parental-rating": "free",
+        "seasons": 4,
+        "critical-score": 95
+    },
+    {
+        "title": "When They See Us",
+        "release": 2019,
+        "original-network": "Netflix",
+        "genre": ["drama", "biography", "crime"],
+        "parental-rating": 16,
+        "seasons": 1,
+        "critical-score": 96
+    }
+]
