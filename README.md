@@ -57,6 +57,9 @@ O *Hypertext Transfer Protocol (HTTP)* é um protocolo de comunicação entre **
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ![api](https://i.ibb.co/Yc6ddG8/api.jpg)
 
@@ -68,6 +71,13 @@ APIs não são necessariamente uma "coisa" definida. API é um *jeito*. Um jeito
 As APIs integram sistemas de forma rápida e protegida. Podemos, ainda, utilizar APIs para trafegar informações entre servidores: Uma aplicação em um servidor pede informação para outra aplicação de um segundo servidor e... isso funciona!
 
 Este texto explica direitinho mais detalhes sobre APIs: [Entenda API de uma maneira simples!](https://vertigo.com.br/o-que-e-api-entenda-de-uma-maneira-simples/)
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ![codigoNavegador](https://i.ibb.co/qjKCNFN/criando-Banco-De-Dados.jpg)
 
@@ -161,6 +171,13 @@ const servidor = http.createServer (function (req, resp) => {
 servidor.listen(3000)
     console.log('Seu servidor está rodando na porta 3000')
 ```
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 ![butterfly](https://i.ibb.co/GPmSDb3/intro-Node-No-Projeto.jpg)
 
 ## Transformando o projeto todo numa aplicação node: o arquivo package.JSON
@@ -174,6 +191,13 @@ Ao final, será gerado um arquivo chamado "package.json" com todas as informaç�
 npm init
 ```
 A partir deste momento, já podemos aproveitar de forma organizada todas as dependências (funcionalidades) que o Node traz!
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ![multitask](https://i.ibb.co/0Jmv0nX/nodepackagejson.jpg)
 
@@ -192,6 +216,13 @@ Um bom exemplo de dependência é o `readline-sync`: Com ela, é possível pegar
 3. No código .js: `const respostaUsuario = input.question('Qual seu nome?')` Guardando uma informação de usuário numa variável`
 
 Pode ter certeza que fazer isso do zero daria um trabalhão...
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ![nodemon](https://i.ibb.co/DDrwV90/nodemon.jpg)
 ### Baixando uma dependência importantíssima, o NODEMON.
@@ -213,6 +244,13 @@ Pensando nisso, foi criado o **Nodemon**. Ele é uma dependência que atualiza o
 O NPM, ou Node Package Manager, é o administrador de pacotes (dependências) do Node. Sempre que precisar "baixar" uma dependência nova, é só digitar `npm install <pacote-que-quer-baixar>`. 
 
 Existe um outro gerenciador também, o yarn. Leia mais sobre ele [aqui](https://engineering.fb.com/web/yarn-a-new-package-manager-for-javascript/).
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ![fusao](https://i.ibb.co/8msJnKX/fusao.jpg)
 
