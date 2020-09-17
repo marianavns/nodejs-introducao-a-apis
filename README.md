@@ -136,7 +136,7 @@ servidor.listen(3000)
 
 :heavy_check_mark: Criamos um servidor que trabalha em função da requisição e da resposta;
 
-    :white_check_mark: {não obrigatório} Sinalizamos NO CONSOLE que um servidor foi criado e a requisição foi feita;
+:white_check_mark: {não obrigatório} Sinalizamos NO CONSOLE que um servidor foi criado e a requisição foi feita;
 
 :heavy_check_mark: Adicionamos a resposta que será mostrada no navegador.
 
@@ -144,7 +144,7 @@ servidor.listen(3000)
 
 :heavy_check_mark: Sinalizamos a porta no seu computador onde a comunicação vai acontecer;
 
-    :white_check_mark: {não obrigatório} Sinalizamos mais uma vez NO CONSOLE o número da porta, só para ficar organizado.
+:white_check_mark: {não obrigatório} Sinalizamos mais uma vez NO CONSOLE o número da porta, só para ficar organizado.
 
 
 ```js
