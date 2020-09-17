@@ -178,6 +178,7 @@ servidor.listen(3000)
 <br />
 <br />
 <br />
+
 ![butterfly](https://i.ibb.co/GPmSDb3/intro-Node-No-Projeto.jpg)
 
 ## Transformando o projeto todo numa aplicação node: o arquivo package.JSON
