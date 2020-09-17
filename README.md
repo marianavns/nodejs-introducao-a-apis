@@ -129,19 +129,29 @@ servidor.listen(3000)
 ### Resumo dos 4 passos (com alguns adicionais exibidos no console para ajudar)
 
 :heavy_check_mark: Criamos um arquivo `server.js`
+
 {
+
 :heavy_check_mark: Pedimos o módulo HTTP ao Node dentro do server.js;
+
 :heavy_check_mark: Criamos um servidor que trabalha em função da requisição e da resposta;
+
     :white_check_mark: {não obrigatório} Sinalizamos NO CONSOLE que um servidor foi criado e a requisição foi feita;
+
 :heavy_check_mark: Adicionamos a resposta que será mostrada no navegador.
+
 }
+
 :heavy_check_mark: Sinalizamos a porta no seu computador onde a comunicação vai acontecer;
+
     :white_check_mark: {não obrigatório} Sinalizamos mais uma vez NO CONSOLE o número da porta, só para ficar organizado.
+
 
 ```js
 const http = require('http') 
 const servidor = http.createServer (function (req, resp) => {                
-    console.log('Você digitou localhost:3000 no navegador, então o servidor foi criado com sucesso e a requisição foi feita')
+    console.log('Você digitou localhost:3000 no navegador')
+    console.log('Então o servidor foi criado com sucesso e a requisição foi feita')
     resp.end('Esta é a resposta da sua requisição')
 }
 servidor.listen(3000)
