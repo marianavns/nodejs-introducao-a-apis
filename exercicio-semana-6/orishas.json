@@ -1,0 +1,131 @@
+[
+    {
+        "name":
+            {"original": "Yemọja",
+            "aka": "Iemanjá",
+            "syncretism": 
+                ["Nossa Senhora", 
+                "Nossa Senhora dos Navegantes",
+                "Nossa Senhora da Glória"]},
+        "weekday": "saturday",
+        "color":    
+            {"necklace": ["transparent", "green", "light blue"],
+            "clother": ["white", "blue"]},
+        "personality": ["maternal", "quiet"],
+        "element": "water"
+    },
+    {
+        "name":
+            {"original": "Ṣàngó",
+            "aka": "Xangô",
+            "syncretism": 
+            ["São Jerônimo", 
+            "Santo Antônio",
+            "São Pedro",
+            "São João Batista", 
+            "São José",
+            "São Francisco de Assis"]},
+        "weekday": "wednesday",
+        "color":    
+            {"necklace": ["white", "red"],
+            "clother": ["white", "red"]},
+        "personality": ["sassy", "boastful"],
+        "element": "fire"
+    },
+    {
+        "name":
+            {"original": "Ìyá ọmọ mẹ́sàn",
+            "aka": ["Iansã", "Oyá"],
+            "syncretism": "Santa Bárbara"},
+        "weekday": "wednesday",
+        "color":
+            {"necklace": ["red", "brown"],
+            "clother": "red"},
+        "personality": ["impulsive", "unpredictable"],
+        "element":"fire"
+    },
+    {
+        "name":
+            {"original": "Òsóòsì",
+            "aka": "Oxossi",
+            "syncretism": "São Sebastião"},
+        "weekday": "thursday",
+        "color":    
+            {"necklace": ["white", "green"],
+            "clother": ["blue", "green"]},
+        "personality": ["intuitive", "emotional"],
+        "element": "forests"
+    },
+    {
+        "name":
+            {"original": "",
+            "aka": "Ogum",
+            "syncretism": ""},
+        "weekday": "",
+        "color":    
+            {"necklace": [""],
+            "clother": ""},
+        "personality": "",
+        "element":""
+    },
+    {
+        "name":
+            {"original": "",
+            "aka": "Oxum",
+            "syncretism": ""},
+        "weekday": "",
+        "color":    
+            {"necklace": [""],
+            "clother": ""},
+        "personality": "",
+        "element":""
+    },
+    {
+        "name":
+            {"original": "",
+            "aka": "Exu",
+            "syncretism": ""},
+        "weekday": "",
+        "color":    
+            {"necklace": [""],
+            "clother": ""},
+        "personality": "",
+        "element":""
+    },
+    {
+        "name":
+            {"original": "",
+            "aka": "Omulu",
+            "syncretism": ""},
+        "weekday": "",
+        "color":    
+            {"necklace": [""],
+            "clother": ""},
+        "personality": "",
+        "element":""
+    },
+    {
+        "name":
+            {"original": "",
+            "aka": "Oxalá",
+            "syncretism": ""},
+        "weekday": "",
+        "color":    
+            {"necklace": [""],
+            "clother": ""},
+        "personality": "",
+        "element":""
+    },
+    {
+        "name":
+            {"original": "",
+            "aka": "Oxumaré",
+            "syncretism": ""},
+        "weekday": "",
+        "color":    
+            {"necklace": [""],
+            "clother": ""},
+        "personality": "",
+        "element":""
+    }
+]
