@@ -1,0 +1,109 @@
+[
+    {
+        "name": "South Africa",
+        "capital": ["Pretoria", "Bloemfontein", "Cape Town"],
+        "region": "Southern Africa",
+        "population-millions": 58,
+        "tourist-attractions": [
+            "Kruger National Park", 
+            "Cape Town", 
+            "Blyde River Canyon Nature Reserve"
+        ]
+    },
+    {
+        "name": "Nigeria",
+        "capital": "Abuja",
+        "region": "West Africa",
+        "population-millions": 195,
+        "tourist-attractions": [
+            "Yankari Game Reserve",
+            "Lekki Conservation Centre"
+        ]
+    },
+    {
+        "name": "Morocco",
+        "capital": "Rabat",
+        "region": "North Africa",
+        "population-millions": 36,
+        "tourist-attractions": [
+            "Marrakesh Medina",
+            "Oudaias Kasbah",
+            "Fes El Bali"
+        ]
+    },
+    {
+        "name": "Cape Verde",
+        "capital": "Praia",
+        "region": "West Africa",
+        "population-millions": 0.5,
+        "tourist-attractions": [
+            "Deserto de Viana",
+            "Fogo Island",
+            "Santa Monica Beach"
+        ]
+    },
+    {
+        "name": "Egypt",
+        "capital": "Cairo",
+        "region": "North Africa",
+        "population-millions": 98,
+        "tourist-attractions": [
+            "Pyramids of Giza",
+            "Luxor's Karnak Temple and the Valley of the Kings",
+            "White Desert"
+        ]
+    },
+    {
+        "name": "Democratic Republic of the Congo",
+        "capital": "Kinshasa",
+        "region": "Central Africa",
+        "population-millions": 101,
+        "tourist-attractions": [
+            "Inkisi Falls",
+            "Garamba Nationa Park"
+        ]
+    },
+    {
+        "name": "Kenya",
+        "capital": "Nairobi",
+        "region": "East Africa",
+        "population-millions": 51,
+        "tourist-attractions": [
+            "Lake Nakuru National Park",
+            "Lamu Island",
+            "Maasai Mara National Reserve"
+        ]
+    },
+    {
+        "name": "Madagascar",
+        "capital": "Antananarivo",
+        "region": "East Africa",
+        "population-millions": 26,
+        "tourist-attractions": [
+        "Avenue of the Baobabs",
+        "Nose By Island"
+        ]
+    },
+    {
+        "name": "Rwanda",
+        "capital": "Kigali",
+        "region": "East Africa",
+        "population-millions": 12,
+        "tourist-attractions": [
+            "Volcanoes National Park",
+            "Kigali Genocide Memorial"
+        ]
+    },
+    {
+        "name": "Angola",
+        "capital": "Luanda",
+        "region": "Central Africa",
+        "population-millions": 31,
+        "tourist-attractions": [
+            "Dilolo Lake",
+            "The Tunda Vala Fissure",
+            "The Arch Lagoon",
+            "Dala Waterfalls"
+        ]
+    }
+]

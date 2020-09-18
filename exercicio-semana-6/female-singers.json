@@ -1,0 +1,112 @@
+[
+    {
+        "artistic-name": "Nina Simone",
+        "genre": ["Rhythm and Blues", "Jazz", "Soul", "Classic Music", "Gospel"],
+        "birth-date": {
+            "year": 1933, 
+            "mouth": "february",
+            "date": 21
+        },
+        "birth-place": "North Carolina, EUA",
+        "in-activity": false
+    },
+    {
+        "artistic-name": "Missy Elliot",
+        "genre": ["Rap", "Hip-Hop", "R&B"],
+        "birth-date": {
+            "year": 1971, 
+            "mouth": "july",
+            "date": 1
+        },
+        "birth-place": "Virginia, EUA",
+        "in-activity": true
+    },
+    {
+        "artistic-name": "Megan Thee Stalion",
+        "genre": ["Hip-Hop", "Pop"],
+        "birth-date": {
+            "year": 1995, 
+            "mouth": "february",
+            "date": 15
+        },
+        "birth-place": "Texas, EUA",
+        "in-activity": true
+    },
+    {
+        "artistic-name": "Nicki Minaj",
+        "genre": ["Rap", "Pop", "Hip-Hop"],
+        "birth-date": {
+            "year": 1982, 
+            "mouth": "december",
+            "date": 8
+        },
+        "birth-place": "Saint James, Trinidad and Tobago",
+        "in-activity": true
+    },
+    {
+        "artistic-name": "Alicia Keys",
+        "genre": ["Pop", "Soul", "Hip-Hop", "R&B"],
+        "birth-date": {
+            "year": 1981, 
+            "mouth": "january",
+            "date": 25
+        },
+        "birth-place": "New York, EUA",
+        "in-activity": true
+    },
+    {
+        "artistic-name": "Iza",
+        "genre": ["Pop", "Soul", "R&B"],
+        "birth-date": {
+            "year": 1990, 
+            "mouth": "september",
+            "date": 3
+        },
+        "birth-place": "Rio de Janeiro, Brazil",
+        "in-activity": true
+    },
+    {
+    "artistic-name": "Beyoncé",
+        "genre": ["Pop", "R&B"],
+        "birth-date": {
+            "year": 1981, 
+            "mouth": "september",
+            "date": 4
+        },
+        "birth-place": "Texas, EUA",
+        "in-activity": true
+    },
+    {
+        "artistic-name": "Drik Barbosa",
+        "genre": ["Hip-Hop", "Rap"],
+        "birth-date": {
+            "year": 1992, 
+            "mouth": "april",
+            "date": 21
+        },
+        "birth-place": "Sao Paulo, Brazil",
+        "in-activity": true
+    },
+    {
+        "artistic-name": "Ella Fitzgerald",
+        "genre": ["Swing", "Bebop", "Pop", "Jazz", "Blues"],
+        "birth-date": {
+            "year": 1917, 
+            "mouth": "april",
+            "date": 25
+        },
+        "birth-place": "Virginia, EUA",
+        "in-activity": false
+    },
+    {
+        "artistic-name": "Mahmundi",
+        "genre":["MPB", "Pop", "Lo-fi", "New Wave"],
+        "birth-date": {
+            "year": 1986, 
+            "mouth": "july",
+            "date": 29
+        },
+        "birth-place": "Rio de Janeiro, Brazil",
+        "in-activity": true
+    }
+]
