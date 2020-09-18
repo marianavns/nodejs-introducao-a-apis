@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Insubmissas lágrimas de mulheres",
+        "authorship": "Conceição Evaristo",
+        "release": 2011,
+        "genre": "fiction" 
+    },
+    {
+        "name": "Dom Casmurro",
+        "authorship": "Machado de Assis",
+        "release": 1899,
+        "genre": ["romance", "fiction", "memories", "realism"] 
+    },
+    {
+        "name": "Quarto de Despejo",
+        "authorship": "Carolina de Jesus",
+        "release": 1960,
+        "genre": "biography" 
+    },
+    {
+        "name": "Espumas Flutuantes",
+        "authorship": "Castro Alves",
+        "release": 1870,
+        "genre": "poetry" 
+    },
+    {
+        "name": "Heroínas negras brasileiras em 15 cordéis",
+        "authorship": "Jarid Arraes",
+        "release": 2017,
+        "genre": "poetry" 
+    },
+    {
+        "name": "Triste Fim de Policarpo Quaresma",
+        "authorship": "Lima Barreto",
+        "release": 1911,
+        "genre": "fiction" 
+    },
+    {
+        "name": "Vidas Secas",
+        "authorship": "Graciliano Ramos",
+        "release": 1938,
+        "genre": ["romance", "fiction"] 
+    },
+    {
+        "name": "Broquéis",
+        "authorship": "Cruz e Sousa",
+        "release": 1893,
+        "genre": ["poetry", "drama"] 
+    },
+    {
+        "name": "Por Uma Outra Globalização: Do pensamento único à consciência universal",
+        "authorship": "Milton Santos",
+        "release": 2000,
+        "genre": "sociology" 
+    },
+    {
+        "name": "Úrsula",
+        "authorship": "Maria Firmino dos Reis",
+        "release": 1859,
+        "genre": "fiction" 
+    }
+]
