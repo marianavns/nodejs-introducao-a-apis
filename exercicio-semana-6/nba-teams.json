@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Golden State Warriors",
+        "location": "San Francisco, California",
+        "conference": "Western",
+        "team-colors": ["royal blue", "yellow"],
+        "arena": "Chase Center"
+    },
+    {
+        "name": "Toronto Raptors",
+        "location": "Toronto, Ontario",
+        "conference": "Eastern",
+        "team-colors":["Red", "black", "silver", "gold", "white"],
+        "arena": "Scotiabank Arena"
+    },
+    {
+        "name": "Boston Celtics",
+        "location": "Boston, Massachusetts",
+        "conference": "Eastern",
+        "team-colors": ["green", "gold", "black", "brown", "white"],
+        "arena": "TD Garden"
+    },
+    {
+        "name": "Utah Jazz",
+        "location": "Salt Lake City, Utah",
+        "conference": "Western",
+        "team-colors": ["Navy blue", "gold", "gree"],
+        "arena": "Vivint Smart Home Arena"
+    },
+    {
+        "name": "Chicago Bulls",
+        "location": "Chicago, Illinois",
+        "conference": "Eastern",
+        "team-colors": ["Red", "black"],
+        "arena": "United Center"
+    },
+    {
+        "name": "Los Angeles Lakers",
+        "location": "Los Angeles, California",
+        "conference": "Western",
+        "team-colors": ["Purple", "gold", "black"],
+        "arena": "Staples Center"
+    },
+    {
+        "name": "Denver Nuggets",
+        "location": "Denver, Colorado",
+        "conference": "Western",
+        "team-colors": ["Midnight blue", "yellow", "red", "skyline blue"],
+        "arena": "Pepsi Center"
+    },
+    {
+        "name": "Houston Rockets",
+        "location": "Houston, Texas",
+        "conference": "Western",
+        "team-colors": ["Red", "black", "gray", "anthracite", "white"],
+        "arena": "Toyota Center"
+    },
+    {
+        "name": "Miami Heat",
+        "location": "Miami, Florida",
+        "conference": "Eastern",
+        "team-colors": ["black", "red", "yellow"],
+        "arena": "American Airlines Arena"
+    },
+    {
+        "name": "Indiana Pacers",
+        "location": "Indianapolis, Indiana",
+        "conference": "Eastern",
+        "team-colors": ["Navy blue", "gold", "gray"],
+        "arena": "Bankers Life Fieldhouse"
+    }
+]
