@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Ludmila da Silva",
+        "year-of-birth": 1994,
+        "current-teams": 
+            ["Atlético Madrid Femenino", 
+            "Seleção Brasileira de Futebol Feminino"],
+        "position": "forward"
+    },
+    {
+        "name": "Cheyna Matthews",
+        "year-of-birth": 1993,
+        "current-teams": 
+            ["Seleção jamaicana de futebol feminino", 
+            "Washington Spirit"],
+        "position": "forward"
+    },
+    {
+        "name": "Marta",
+        "year-of-birth": 1986,
+        "current-teams": 
+            ["Seleção Brasileira de Futebol Feminino", 
+            "Orlando Pride"],
+        "position": "forward"
+    },
+    {
+        "name": "Andressinha",
+        "year-of-birth": 1995,
+        "current-teams": "Futebol Feminino do Sport Club Corinthians Paulista",
+        "position": "midfielder"
+    },
+    {
+        "name": "Cristiane",
+        "year-of-birth": 1985,
+        "current-teams": 
+            ["Seleção Brasileira de Futebol Feminino", 
+            "Santos Futebol Clube"],
+        "position": "forward"
+    },
+    {
+        "name": "Megan Rapinoe",
+        "year-of-birth": 1985,
+        "current-teams": "United States of America",
+        "position": "midfielder"
+    },
+    {
+        "name": "Formiga",
+        "year-of-birth": 1978,
+        "current-teams": 
+        ["Seleção Brasileira de Futebol Feminino", 
+        "Paris Saint-Germain Féminine"],
+        "position": "midfielder"
+    },
+    {
+        "name": "Andressa Alves",
+        "year-of-birth": 1992,
+        "current-teams": 
+        ["Seleção Brasileira de Futebol Feminino", 
+        "AS Roma Women"],
+        "position": "forward"
+    },
+    {
+        "name": "Christiane Endler",
+        "year-of-birth": 1991,
+        "current-teams": "Paris Saint-Germain",
+        "position": "Goalkeeper"
+    },
+    {
+        "name": "Érika",
+        "year-of-birth": 1988,
+        "current-teams": 
+        ["Futebol Feminino do Sport Club Corinthians Paulista", 
+        "Seleção Brasileira de Futebol Feminino"],
+        "position": 
+            ["midfielder", 
+            "defender", 
+            "forward"]
+    },
+    {
+        "name": "Debinha",
+        "year-of-birth": "",
+        "current-teams":
+        ["North Carolina Courage", 
+        "Seleção Brasileira de Futebol Feminino"],
+        "position": "midfielder"
+    }
+]
