@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Pong",
+        "release": 1972,
+        "genre": "sports",
+        "mode": ["single-player", "multiplayer"],
+        "designer": "Allan Alcorn"
+    },
+    {
+        "name": "Star Wars",
+        "release": 1983,
+        "genre": "shooter",
+        "mode": "single-player",
+        "designer": "Mike Hally"
+    },
+    {
+        "name": "Raiders Of The Lost Ark",
+        "release": 1982,
+        "genre": ["action", "adventure"],
+        "mode": "single-player",
+        "designer": "Howard Scott Warshaw"
+    },
+    {
+        "name": "Street Racer",
+        "release": 1977,
+        "genre": "racing",
+        "mode": ["single-player", "multiplayer"],
+        "designer": "Larry Kaplan"
+    },
+    {
+        "name": "Breakout",
+        "release": 1976,
+        "genre": "action",
+        "mode": "alternate",
+        "designer": ["Nolan Bushnell", "Steve Bristow", "Steve Wozniak"]
+    },
+    {
+        "name": "Space Invaders",
+        "release": 1978,
+        "genre": "shooter",
+        "mode": ["single-player", "alternate"],
+        "designer": "Tomohiro Nishikado"
+    },
+    {
+        "name": "E.T. the Extra-Terrestrial",
+        "release": 1982,
+        "genre": "adventure",
+        "mode": "single-player",
+        "designer": "Howard Scott Warshaw"
+    },
+    {
+        "name": "Missile Command",
+        "release": 1981,
+        "genre": "shooter",
+        "mode": "alternate",
+        "designer": "Dave Theurer"
+    },
+    {
+        "name": "Football",
+        "release": 1978,
+        "genre": "sports",
+        "mode": ["single-player", "multiplayer"],
+        "designer": "Steve Bristow"
+    },
+    {
+        "name": "Battlezone",
+        "release": 1980,
+        "genre": ["Combat simulation", "vehicular combat", "shooter"],
+        "mode": "single-player",
+        "designer": ["Ed Rotberg", "Owen Rubin", "Roger Hector"]
+    }
+]
