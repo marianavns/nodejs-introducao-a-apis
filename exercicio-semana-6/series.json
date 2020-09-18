@@ -6,7 +6,7 @@
         "genre": "comedy",
         "parental-rating": 14,
         "seasons": 5,
-        "critical-score": null
+        "critical-score": ""
     },
     {
         "title": "Queen Sono",
@@ -60,7 +60,7 @@
         "genre": "comedy",
         "parental-rating": "free",
         "seasons": 6,
-        "critical-score": null
+        "critical-score": ""
     },
     {
         "title": "The Get Down",
