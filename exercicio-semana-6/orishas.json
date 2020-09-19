@@ -2,7 +2,7 @@
     {
         "name":
             {"original": "Yemọja",
-            "aka": "Iemanjá",
+            "popular": "Iemanjá",
             "syncretism": 
                 ["Nossa Senhora", 
                 "Nossa Senhora dos Navegantes",
@@ -17,14 +17,14 @@
     {
         "name":
             {"original": "Ṣàngó",
-            "aka": "Xangô",
+            "popular": "Xangô",
             "syncretism": 
-            ["São Jerônimo", 
-            "Santo Antônio",
-            "São Pedro",
-            "São João Batista", 
-            "São José",
-            "São Francisco de Assis"]},
+                ["São Jerônimo", 
+                "Santo Antônio",
+                "São Pedro",
+                "São João Batista", 
+                "São José",
+                "São Francisco de Assis"]},
         "weekday": "wednesday",
         "color":    
             {"necklace": ["white", "red"],
@@ -35,7 +35,7 @@
     {
         "name":
             {"original": "Ìyá ọmọ mẹ́sàn",
-            "aka": ["Iansã", "Oyá"],
+            "popular": ["Iansã", "Oyá"],
             "syncretism": "Santa Bárbara"},
         "weekday": "wednesday",
         "color":
@@ -47,7 +47,7 @@
     {
         "name":
             {"original": "Òsóòsì",
-            "aka": "Oxossi",
+            "popular": "Oxossi",
             "syncretism": "São Sebastião"},
         "weekday": "thursday",
         "color":    
@@ -58,74 +58,81 @@
     },
     {
         "name":
-            {"original": "",
-            "aka": "Ogum",
-            "syncretism": ""},
-        "weekday": "",
+            {"original": "Ògún",
+            "popular": "Ogum",
+            "syncretism": 
+                ["Santo Antônio",
+                "São Jorge"]},
+        "weekday": "tuesday",
         "color":    
-            {"necklace": [""],
-            "clother": ""},
-        "personality": "",
-        "element":""
+            {"necklace": ["blue"],
+            "clother": "blue"},
+        "personality": ["shy", "vindictive"],
+        "element": "soil"
     },
     {
         "name":
-            {"original": "",
-            "aka": "Oxum",
-            "syncretism": ""},
-        "weekday": "",
+            {"original": "Oṣun",
+            "popular": "Oxum",
+            "syncretism": 
+                ["Nossa Senhora da Conceição", 
+                "Nossa Senhora Aparecida",
+                "Nossa Senhora das Candeias"]},
+        "weekday": "saturday",
         "color":    
-            {"necklace": [""],
-            "clother": ""},
-        "personality": "",
-        "element":""
+            {"necklace": ["golden yellow"],
+            "clother": "golden yellow"},
+        "personality": ["maternal", "peaceful"],
+        "element":"water"
     },
     {
         "name":
-            {"original": "",
-            "aka": "Exu",
-            "syncretism": ""},
-        "weekday": "",
+            {"original": "Èsù",
+            "popular": "Exu",
+            "syncretism": "Santo Antônio"},
+        "weekday": "monday",
         "color":    
-            {"necklace": [""],
-            "clother": ""},
-        "personality": "",
-        "element":""
+            {"necklace": ["red", "black"],
+            "clother": ["red", "black"]},
+        "personality": ["sassy", "aggressive"],
+        "element": "fire"
     },
     {
         "name":
-            {"original": "",
-            "aka": "Omulu",
-            "syncretism": ""},
-        "weekday": "",
+            {"original": "Obalúwayé",
+            "popular": ["Omulu", "Obaluiaiê"],
+            "syncretism": 
+                ["São Lázaro", 
+                "São Roque"]},
+        "weekday": "monday",
         "color":    
-            {"necklace": [""],
-            "clother": ""},
-        "personality": "",
-        "element":""
+            {"necklace": ["black", "white", "red"],
+            "clother": ["black", "red"]},
+        "personality": ["shy", "vindictive"],
+        "element": "soil"
     },
     {
         "name":
-            {"original": "",
-            "aka": "Oxalá",
-            "syncretism": ""},
-        "weekday": "",
+            {"original": "Òrìsànlá",
+            "popular": "Oxalá",
+            "syncretism": "Jesus Cristo"},
+        "weekday": "friday",
         "color":    
-            {"necklace": [""],
-            "clother": ""},
-        "personality": "",
-        "element":""
+            {"necklace": ["white"],
+            "clother": "white"},
+        "personality": ["balanced", "tolerant"],
+        "element": "air"
     },
     {
         "name":
-            {"original": "",
-            "aka": "Oxumaré",
-            "syncretism": ""},
-        "weekday": "",
+            {"original": "Òsùmàrè",
+            "popular": "Oxumaré",
+            "syncretism": "São Bartolomeu"},
+        "weekday": "thursday",
         "color":    
-            {"necklace": [""],
-            "clother": ""},
-        "personality": "",
-        "element":""
+            {"necklace": ["yellow", "green"],
+            "clother": ["blue", "green"]},
+        "personality": ["sensitive", "peaceful"],
+        "element":"water"
     }
 ]
