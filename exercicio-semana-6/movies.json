@@ -1,0 +1,52 @@
+[
+    {
+    "name": "Hoje Eu Quero Voltar Sozinho",
+    "genre": ["romance", "drama"],    
+    "release": 2014
+    },
+    {
+    "name": "Aquarius",
+    "genre": ["drama", "thriller"],
+    "release": 2016
+    },
+    {
+    "name": "O Som Ao Redor",
+    "genre": ["drama", "thriller", "mystery"],
+    "release": 2013
+    },
+    {
+    "name": "O Auto da Compadecida",
+    "genre": ["comedy", "drama"],
+    "release": 2000
+    },
+    {
+    "name": "O Pagador de Promessas",
+    "genre": "drama",
+    "release": 1962
+    },
+    {
+    "name": "Democracia em Vertigem",
+    "genre": "documentário",
+    "release": 2019
+    },
+    {
+    "name": "Bacurau",
+    "genre": ["drama", "western", "fantasy", "adventure", "action", "thriller"],
+    "release": 2019
+    },
+    {
+    "name": "O Jeca e a Égua Milagrosa",
+    "genre": "comedy",
+    "release": 1980
+    },
+    {
+    "name": "Minha Mãe é Uma Peça - O Filme",
+    "genre": "comedy",
+    "release": 2013
+    },
+    {
+    "name": "Cinema, Aspirinas e Urubus",
+    "genre": ["drama", "adventure"],
+    "release": 2005
+    }
+]
