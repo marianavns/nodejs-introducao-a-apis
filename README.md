@@ -20,7 +20,7 @@ Se tiver alguma sugestão ou observar algum erro, por favor abre uma issue aqui 
 
     [O que é um servidor?](#O-que-é-um-servidor)
 
-    [O que é um banco de dados (database)?](O-que-é-um-banco-de-dados)
+    [O que é um banco de dados?](O-que-é-um-banco-de-dados)
 
     [Os "fios" para comunicar tudo isso: Protocolo HTTP](Os-fios-para-comunicar-tudo-isso-Protocolo-HTTP)
 
@@ -198,6 +198,8 @@ Ao final, será gerado um arquivo chamado "package.json" com todas as informaç�
 npm init
 ```
 A partir deste momento, já podemos aproveitar de forma organizada todas as dependências (funcionalidades) que o Node traz!
+
+> Mais pra frente, quando você estiver trabalhando em projetos, será necessário atualizar seus pacotes para estar de acordo com os pacotes usados no projeto. Para fazer isso, é necessário apenas digitar `npm install` para baixar os pacotes já descritos no package.json do projeto ou para baixá-los, caso ainda não estejam na sua máquina.
 <br />
 <br />
 <br />
