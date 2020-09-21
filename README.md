@@ -16,7 +16,7 @@ Se tiver alguma sugestão ou observar algum erro, por favor abre uma issue aqui 
 
 1. [**A comunicação entre a máquina e o mundo (cliente e servidor)**](#A-comunicacao-entre-a-maquina-e-o-mundo-(cliente-e-servidor))
 
-    [Quem e o cliente?](#Quem-e-o-cliente?)
+    [Quem é o cliente?](#Quem-e-o-cliente?)
 
     [O que é um servidor?](#...Mas-o-que-é-servidor?)
 
@@ -40,7 +40,7 @@ Se tiver alguma sugestão ou observar algum erro, por favor abre uma issue aqui 
 
 ![introducao](https://i.ibb.co/G5jrwW3/introducao.jpg)
 
-### Quem é o cliente?
+### Quem e o cliente?
 
 É o seu e o meu computador. É a rede de computadores que está entrando em sites, e-mails, repositórios. Cliente é quem está fazendo alguma requisição de informações disponíveis em um servidor.
 
