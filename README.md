@@ -14,12 +14,12 @@ Se tiver alguma sugestão ou observar algum erro, por favor abre uma issue aqui 
 
 ## Sumário
 
-1. **A comunicação entre sua máquina e o mundo (cliente e servidor)**
-    Quem é o cliente?
-    O que é um servidor?
-    O que é um banco de dados (database)?
-    Os "fios" para comunicar tudo isso: Protocolo HTTP.
-2. **O que é API?**
+1. [**A comunicação entre a máquina e o mundo (cliente e servidor)**](#A-comunicação-entre-a-máquina-e-o-mundo-(cliente-e-servidor))
+    [Quem é o cliente?](#Quem-é-o-cliente?)
+    [O que é um servidor?](#...Mas-o-que-é-servidor?)
+    [O que é um banco de dados (database)?](O-que-é-banco-de-dados-(database)?)
+    [Os "fios" para comunicar tudo isso: Protocolo HTTP.](Os-"fios"-para-comunicar-tudo-isso:-Protocolo-HTTP)
+2. [**O que é API?**](#O-que-é-API?)
 3. **Como conectar seu editor de código no navegador: Criando um servidor com Node.js**
     Passo 1: Baixe (Faça a requisição) o módulo http
     Passo 2: Crie o servidor
