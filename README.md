@@ -16,7 +16,7 @@ Se tiver alguma sugestão ou observar algum erro, por favor abre uma issue aqui 
 
 1. [**A comunicação entre a máquina e o mundo (cliente e servidor)**](#A-comunicacao-entre-a-maquina-e-o-mundo-(cliente-e-servidor))
 
-    [Quem é o cliente?](#Quem-e-o-cliente?)
+    [Quem e o cliente?](#Quem-e-o-cliente?)
 
     [O que é um servidor?](#...Mas-o-que-é-servidor?)
 
