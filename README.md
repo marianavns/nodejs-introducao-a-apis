@@ -20,9 +20,9 @@ Se tiver alguma sugestão ou observar algum erro, por favor abre uma issue aqui 
 
     [O que é um servidor?](#O-que-é-um-servidor)
 
-    [O que é um banco de dados (database)?](O-que-é-um-banco-de-dados-(database))
+    [O que é um banco de dados (database)?](O-que-é-um-banco-de-dados)
 
-    [Os "fios" para comunicar tudo isso: Protocolo HTTP](Os-"fios"-para-comunicar-tudo-isso:-Protocolo-HTTP)
+    [Os "fios" para comunicar tudo isso: Protocolo HTTP](Os-fios-para-comunicar-tudo-isso-Protocolo-HTTP)
 
 2. [**O que é API?**](#O-que-é-API)
 
@@ -51,11 +51,11 @@ Se tiver alguma sugestão ou observar algum erro, por favor abre uma issue aqui 
 
 Um servidor é um **software ou máquina**. Ele fornece serviços de armazenamento de arquivos, correio eletrônico, dentre muitos outros, a uma rede de computadores. Ao cliente. 
 
-### O que é um banco de dados (database)
+### O que é um banco de dados
 
 É fácil confundir servidor com banco de dados. Banco de dados é o registro, o conjunto de arquivos sobre determinada coisa. O servidor é um "lugar" para guardar esse banco de dados e deixar disponível para consulta.
 
-###  Os "fios" para comunicar tudo isso: Protocolo HTTP
+###  Os fios para comunicar tudo isso: Protocolo HTTP
 
 O *Hypertext Transfer Protocol (HTTP)* é um protocolo de comunicação entre **servidor e cliente**, base para a conexão de dados da Internet. O HTTP não é literalmente um fio, mas sim um conjunto de regras que permite a transmissão de informações.   
     *Hipertexto é o texto estruturado que utiliza ligações lógicas.* 
