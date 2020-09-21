@@ -14,15 +14,18 @@ Se tiver alguma sugestão ou observar algum erro, por favor abre uma issue aqui 
 
 ## Sumário
 
-1. [**A comunicação entre a máquina e o mundo (cliente e servidor)**](#A-comunicacao-entre-a-maquina-e-o-mundo-(cliente-e-servidor))
+1. [**A comunicação entre a máquina e o mundo**](#A-comunicação-entre-a-maquina-e-o-mundo)
 
-    [Quem é o cliente?](#Quem-e-o-cliente?)
+    [Quem é o cliente?](#Quem-é-o-cliente)
 
-    [O que é um servidor?](#...Mas-o-que-é-servidor?)
+    [O que é um servidor](#O-que-é-um-servidor)
 
-    [O que é um banco de dados (database)?](O-que-e-banco-de-dados-(database)?)
-    [Os "fios" para comunicar tudo isso: Protocolo HTTP.](Os-"fios"-para-comunicar-tudo-isso:-Protocolo-HTTP)
-2. [**O que é API?**](#O-que-é-API?)
+    [O que é um banco de dados](O-que-é-banco-de-dados)
+
+    [Os "fios" para comunicar tudo isso: Protocolo HTTP](Os-"fios"-para-comunicar-tudo-isso:-Protocolo-HTTP)
+
+2. [**O que é API**](#O-que-é-API)
+
 3. **Como conectar seu editor de código no navegador: Criando um servidor com Node.js**
     Passo 1: Baixe (Faça a requisição) o módulo http
     Passo 2: Crie o servidor
@@ -36,19 +39,19 @@ Se tiver alguma sugestão ou observar algum erro, por favor abre uma issue aqui 
 6. **Criando uma base de dados e trabalhando com ela: Modules e Require**
 
 
-## A comunicação entre a máquina e o mundo (cliente e servidor)
+## A comunicação entre a máquina e o mundo
 
 ![introducao](https://i.ibb.co/G5jrwW3/introducao.jpg)
 
-### Quem e o cliente?
+### Quem é o cliente?
 
 É o seu e o meu computador. É a rede de computadores que está entrando em sites, e-mails, repositórios. Cliente é quem está fazendo alguma requisição de informações disponíveis em um servidor.
 
-### ...Mas o que é servidor?
+### O que é um servidor
 
 Um servidor é um **software ou máquina**. Ele fornece serviços de armazenamento de arquivos, correio eletrônico, dentre muitos outros, a uma rede de computadores. Ao cliente. 
 
-### O que é banco de dados (database)? 
+### O que é um banco de dados 
 
 É fácil confundir servidor com banco de dados. Banco de dados é o registro, o conjunto de arquivos sobre determinada coisa. O servidor é um "lugar" para guardar esse banco de dados e deixar disponível para consulta.
 
@@ -66,7 +69,7 @@ O *Hypertext Transfer Protocol (HTTP)* é um protocolo de comunicação entre **
 
 ![api](https://i.ibb.co/Yc6ddG8/api.jpg)
 
-## O que é API? 
+## O que é API 
 >Application Programming Interface (Interface de Programação de Aplicativos).
 
 APIs não são necessariamente uma "coisa" definida. API é um *jeito*. Um jeito de conectar aplicações, usando vários recursos, como o Node.js, a criação de um servidor, o estabelecimento de um protocolo de comunicação... 
