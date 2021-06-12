@@ -74,7 +74,9 @@ O *Hypertext Transfer Protocol (HTTP)* é um protocolo de comunicação entre **
 
 APIs não são necessariamente uma "coisa" definida. API é um *jeito*. Um jeito de conectar aplicações, usando vários recursos, como o Node.js, a criação de um servidor, o estabelecimento de um protocolo de comunicação... 
 
-E, para conectar essas aplicações, nós escrevemos um conjunto de códigos que tratam os dados. Esses códigos "entendem" quando a gente pede alguma coisa específica e... fazem isso acontecer! Escrevi "meusfilmes.com/terror" no navegador e os códigos da API "Meus Filmes" vai puxar pra mim apenas os filmes de terror! (Pra mim não, tenho medo de filme de terror :/ )
+E, para conectar essas aplicações, nós escrevemos um conjunto de códigos que tratam os dados. Esses códigos "entendem" quando a gente pede alguma coisa específica e... fazem isso acontecer! 
+
+Escrevi "meusfilmes.com/terror" no navegador e os códigos da API "Meus Filmes" vai puxar pra mim apenas os filmes de terror! (Pra mim não, tenho medo de filme de terror :/ )
 
 As APIs integram sistemas de forma rápida e protegida. Podemos, ainda, utilizar APIs para trafegar informações entre servidores: Uma aplicação em um servidor pede informação para outra aplicação de um segundo servidor e... isso funciona!
 
